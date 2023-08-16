@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "267538531614",
+    "project_id": "dispatch-a8ad9",
+    "storage_bucket": "dispatch-a8ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267538531614:android:c87c314cdaa1d92dd0750f",
+        "android_client_info": {
+          "package_name": "com.dispatchclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267538531614-c8ctjqr2v1kaq05cl6cl9uoosq8f56va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BNyw6WXNrKZ7N5Oqg8t1DU3vfMnXWRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267538531614-c8ctjqr2v1kaq05cl6cl9uoosq8f56va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267538531614:android:a22062d629d5de10d0750f",
+        "android_client_info": {
+          "package_name": "com.scanskin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267538531614-c8ctjqr2v1kaq05cl6cl9uoosq8f56va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BNyw6WXNrKZ7N5Oqg8t1DU3vfMnXWRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267538531614-c8ctjqr2v1kaq05cl6cl9uoosq8f56va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
